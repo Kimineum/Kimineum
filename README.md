@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Visual Basic
 - 💞️ I’m looking to collaborate on .Net project
-- 📫 My name is Kimin.  How to reach me ...
+- 📫 My name is Kimin testing. How to reach me ...
 
 <!---
 Kimineum/Kimineum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
